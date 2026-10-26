@@ -1,11 +1,26 @@
+
 {
   "id": "pokerole-shiny-roulette",
   "title": "Pokérole Shiny Roulette",
   "description": "Ruota shiny multiplayer con autorizzazione GM, probabilità condivisa e animazione sincronizzata.",
-  "version": "1.0.0",
-  "compatibility": { "minimum": "13", "verified": "13" },
-  "authors": [{ "name": "Pokérole Roulette" }],
-  "esmodules": ["scripts/roulette.js"],
-  "styles": ["styles/roulette.css"],
-  "socket": true
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Frustas99"
+    }
+  ],
+  "esmodules": [
+    "scripts/roulette.js"
+  ],
+  "styles": [
+    "styles/roulette.css"
+  ],
+  "socket": true,
+  "url": "https://github.com/Frustas99/shiny",
+  "manifest": "https://raw.githubusercontent.com/Frustas99/shiny/main/module.json",
+  "download": "https://github.com/Frustas99/shiny/releases/download/v1.0.1/pokerole-shiny-roulette.zip"
 }
